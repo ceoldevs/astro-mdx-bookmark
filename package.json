@@ -28,5 +28,8 @@
     "@astrojs/tailwind": "^5.0.0",
     "fetch-meta-tags": "^1.0.12",
     "tailwindcss": "^3.0.24"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
